@@ -29,7 +29,7 @@ sistema-coleta/
 ⚙️ Instalação
 
 Baixe ou clone este repositório:
-git clone https://github.com/seu-usuario/sistema-coleta
+git clone [https://github.com/seu-usuario/sistema-coleta](https://github.com/Rjcferreira/fw_coleta)
 
 Coloque a pasta na sua pasta de recursos do FiveM:
 resources/[ox]/sistema-coleta
